@@ -2,6 +2,8 @@
     "name": "yogeshsuhagiya/hello-composer",
     "description": "hello-composer",
     "minimum-stability": "dev",
+    "prefer-stable": true,
+    "license": "proprietary",
     "require": {
         "php": "^7.0"
     },
