@@ -1,17 +1,16 @@
 {
     "name": "yogeshsuhagiya/hello-composer",
     "description": "A simple hello world composer package",
-    "type": "library",
-    "license": "MIT",
+    "require": {
+        "php": "^7.0"
+    },
     "authors": [
         {
-            "name": "Ogbonna Vitalis",
-            "email": "agavitalisogbonna@gmail.com"
+            "name": "Yogesh Suhagiya",
+            "email": "yksuhagiya@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {"yogeshsuhagiya\\HelloWorld\\": "src/"}
-    },
-    "require": {}
+    }
 }
