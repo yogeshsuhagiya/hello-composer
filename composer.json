@@ -1,6 +1,7 @@
 {
     "name": "yogeshsuhagiya/hello-composer",
     "description": "hello-composer",
+    "minimum-stability": "dev",
     "require": {
         "php": "^7.0"
     },
